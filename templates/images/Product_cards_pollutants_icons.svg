@@ -1,0 +1,25 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2b1b35;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Product_cards_pollutants_icons</title>
+  <g>
+    <circle class="cls-1" cx="9.01" cy="38.16" r="7.51"/>
+    <circle class="cls-1" cx="21.65" cy="24.16" r="7.51"/>
+    <circle class="cls-1" cx="30.76" cy="11.03" r="4.69"/>
+    <circle class="cls-1" cx="9.67" cy="19.47" r="3.75"/>
+    <circle class="cls-1" cx="42.05" cy="29.67" r="8.45"/>
+    <line class="cls-1" x1="26.07" y1="17.79" x2="27.69" y2="15.45"/>
+    <line class="cls-1" x1="14.14" y1="32.47" x2="16.19" y2="30.2"/>
+    <line class="cls-1" x1="33.14" y1="27.26" x2="29.16" y2="26.18"/>
+    <line class="cls-1" x1="14.44" y1="21.34" x2="13.42" y2="20.94"/>
+  </g>
+</svg>

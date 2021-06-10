@@ -1,0 +1,28 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2b1b35;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Product_cards_pollutants_icons</title>
+  <g>
+    <circle class="cls-1" cx="26" cy="7.4" r="5.9"/>
+    <circle class="cls-1" cx="9.25" cy="17.05" r="4.42"/>
+    <circle class="cls-1" cx="42.75" cy="17.05" r="4.42"/>
+    <circle class="cls-1" cx="9.25" cy="36.43" r="4.42"/>
+    <circle class="cls-1" cx="26" cy="46.08" r="4.42"/>
+    <circle class="cls-1" cx="42.75" cy="36.43" r="4.42"/>
+    <line class="cls-1" x1="9.25" y1="32.01" x2="9.25" y2="21.47"/>
+    <line class="cls-1" x1="22.17" y1="43.87" x2="13.09" y2="38.62"/>
+    <line class="cls-1" x1="38.91" y1="38.62" x2="29.82" y2="43.87"/>
+    <line class="cls-1" x1="42.75" y1="21.47" x2="42.75" y2="32.01"/>
+    <line class="cls-1" x1="31.1" y1="10.34" x2="38.91" y2="14.85"/>
+    <line class="cls-1" x1="13.09" y1="14.85" x2="20.63" y2="10.5"/>
+  </g>
+</svg>
